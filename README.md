@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sermatty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learn code
+- 🌱 I’m currently learning : jave and python
 - 📫 How to reach me :
               my discord: matteo#7171
 
